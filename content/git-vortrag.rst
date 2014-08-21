@@ -14,4 +14,6 @@ dem Titel: “Einführung in git" statt.
 
 Rechner können gerne mitgebracht werden. Monitore, Tastaturen, Mäuse, Kabel etc. sind vorhanden, ein Internetzugang per LAN/WLAN ebenfalls.
 
-Neue(!) Anfahrt zum Mainframe am Bahnhofsplatz 10.
+Neue Anfahrt_ zum Mainframe am Bahnhofsplatz 10.
+
+.. _Anfahrt: http://mainframe.io/contact.de.html
