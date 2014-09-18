@@ -1,15 +1,14 @@
 Workshop Qt
 ###########
 :date: 2014-09-18 21:16
-:author: 77
-:category: Vortragsankündigung
-:tags: 
-:slug: 
+:author: turboallegro
+:tags: qt
+:slug: qt-workshop
 
-Am 02.10.2014 lädt die Linux-Werkstatt Oldenburg wieder zum gemeinsamen 
+Am 02.10.2014 lädt die Linux Werkstatt Oldenburg wieder zum gemeinsamen 
 “Schrauben” im Mainframe ein.
 
-Um 19.00 Uhr findet ein Workshop statt, mit dem Titel: “Qt" statt.
+Um 19.00 Uhr findet ein Workshop, mit dem Titel: "Qt" statt.
 
 Rechner können gerne mitgebracht werden. Monitore, Tastaturen, Mäuse, Kabel etc. sind vorhanden, ein Internetzugang per LAN/WLAN ebenfalls.
 

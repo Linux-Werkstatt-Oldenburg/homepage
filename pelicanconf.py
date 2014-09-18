@@ -16,7 +16,7 @@ TRANSLATION_FEED_ATOM = None
 
 # Blogroll
 LINKS =  (('Treffen im Mainframe', 'http://mainframe.io/'),
-          ,)
+          )
 
 # Social widget
 SOCIAL = ()
