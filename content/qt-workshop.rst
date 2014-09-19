@@ -2,6 +2,7 @@ Workshop Qt
 ###########
 :date: 2014-09-18 21:16
 :author: turboallegro
+:category: Vortragsankündigung
 :tags: qt
 :slug: qt-workshop
 
