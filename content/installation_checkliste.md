@@ -21,7 +21,6 @@ In der [Linux Werkstatt Oldenburg](http://www.linux-werkstatt-oldenburg.de/ "Hom
  - Wie viele Festplatten sind vorhanden?
  - Booten über USB oder optisches Laufwerk notwendig?                                                                                
 
-
                                                                                                                                      
 ### Welches Linux soll installiert werden?
 
@@ -59,7 +58,6 @@ Windows starten:
 - In Datenträgerverwaltung prüfen, ob es eine "EFI System Partion" gibt                                                              
 - In Datenträgerverwaltung Platz für Linux schaffen                                                                                  
 - Windows 8: Unter Energiefunktionen "Schnellstart aktivieren" deaktivieren
-- Secure Boot NICHT abschalten, da auf manchen Geräten Windows dann nicht mehr startet
 - Keine Installation von Linux bei Hybridfestplatten (SSHD)
                                                                                                                                  
 
@@ -89,7 +87,7 @@ Windows per UEFI und Linux per CSM über Bootloader im MBR der zweien Platte sta
 
 
 #### Es ist nur eine Festplatte vorhanden:
-- Firmware: Secure Boot abschalten, wenn Linux das nicht beherscht, sonst besser eingeschaltet lassen
+- Firmware: Secure Boot abschalten, wenn Linux das nicht beherscht, niemals nachträglich einschalten
 - DVD oder USB-Stick mit UEFI-Fähigkeit erzeugen (geht nur bei 64 Bit), keine Multi-Boot-DVD verwenden
 - Bios Bootmenu aufrufen und den UEFI-Eintrag(!) des Mediums wählen, nicht den normalen
 - Installieren
