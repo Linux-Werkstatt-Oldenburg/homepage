@@ -5,7 +5,7 @@ Date: 2014-09-17 13:37
 
 <img src="/images/hardware_wird_gestellt.JPG" width="200px" align="right" />
 
-Monatlich lädt die Linux Werkstatt Oldenburg zum gemeinsamen “Schrauben” im Mainframe ein. Es findet immer ein kurzer Vortrag oder Workshop statt. Das Treffen findet am 1. Donnerstag im Monat statt, wenn es sich nicht um einen Feiertag handelt.
+Monatlich lädt die Linux Werkstatt Oldenburg zum gemeinsamen “Schrauben” im Mainframe ein. Weiterhin steht immer ein kurzer Vortrag oder Workshop auf dem Programm. Das Treffen findet am 1. Donnerstag im Monat statt, wenn es sich nicht um einen Feiertag handelt.
 
 Rechner können gerne mitgebracht werden. Monitore, Tastaturen, Mäuse, Kabel etc. sind vorhanden, ein Internetzugang per LAN/WLAN ebenfalls.
 

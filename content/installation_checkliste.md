@@ -3,6 +3,7 @@ Author: fraslo
 Category: Alles über die Werkstatt
 Date: 2014-07-03 13:37
 
+
 In der [Linux Werkstatt Oldenburg](http://www.linux-werkstatt-oldenburg.de/ "Homepage Linux-Werkstatt Oldenburg") soll Besuchern geholfen werden, das für sie optimale Linux zu erhalten. Die folgende Checkliste soll dabei helfen, keine wichtigen Schritte für die Installation zu vergessen.
 
 ### Bevor es losgeht
