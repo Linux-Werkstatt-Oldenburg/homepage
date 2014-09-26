@@ -37,7 +37,7 @@ echo "echo 'Acquire::http { Proxy \"http://spacegate:3142\"; };' >/etc/apt/apt.c
 Um diesen Proxy wieder auszutragen, muss die Datei wieder entfernt werden:
 
 ``` bash 
-sudo rm /etc/apt/apt.conf.d/01proxy                                                                                                  
+sudo rm /etc/apt/apt.conf.d/01proxy
 ```
                                                                                                                                      
 Das ist notwendig, da sonst außerhalb der Linux Werkstatt keine Pakete (auch: Sicherheitsupdates) mehr nachinstalliert werden können.                          

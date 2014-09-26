@@ -1,7 +1,7 @@
 Title: Was passiert in der Werkstatt?
 Author: fraslo
 Category: Alles über die Werkstatt
-Date: 2014-07-05 13:37
+Date: 2014-09-17 13:37
 
 Monatlich lädt die Linux Werkstatt Oldenburg zum gemeinsamen “Schrauben” im Mainframe ein. Es findet immer ein kurzer Vortrag oder Workshop statt. Das Treffen findet am 1. Donnerstag im Monat statt, wenn es sich nicht um einen Feiertag handelt.
 
