@@ -40,7 +40,7 @@ Um diesen Proxy wieder auszutragen, muss die Datei wieder entfernt werden:
 sudo rm /etc/apt/apt.conf.d/01proxy                                                                                                  
 ```
                                                                                                                                      
-Dies ist notwendig, da sonst außerhalb der Linux Werkstatt keine Pakete (auch: Sicherheitsupdates) mehr nachinstalliert werden können.                          
+Das ist notwendig, da sonst außerhalb der Linux Werkstatt keine Pakete (auch: Sicherheitsupdates) mehr nachinstalliert werden können.                          
                                                                                                                                      
 #### Tipps:                                                                                                                          
 1. Um den Proxy verwenden zu können, muss ein Netzwerkanschluss oder das WLAN des [Hackspace Oldenburg 'Mainframe'](http://www.kreativitaet-trifft-technik.de/ "Homepage Mainframe")  verwendet werden, nicht das Freifunk Netz.
