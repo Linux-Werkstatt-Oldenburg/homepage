@@ -19,6 +19,7 @@
 <body id="index" class="home">
 {% include 'github.html' %}
         <header id="banner" class="body">
+		<img src="/images/lwo-logo-vector.svg" width="150px" align="right" />
                 <h1><a href="{{ SITEURL }}/">{{ SITENAME }} {% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
                 <nav><ul>
                 {% for title, link in MENUITEMS %}
@@ -36,6 +37,7 @@
                 {% endif %}
                 </ul></nav>
         </header><!-- /#banner -->
+
         {% block content %}
         {% endblock %}
         <section id="extras" class="body">
