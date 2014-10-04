@@ -18,7 +18,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Treffpunkt Mainframe', 'http://mainframe.io/'),('Anfahrtsbeschreibung', 'http://mainframe.io/contact.de.html'),
+LINKS =  (('Treffpunkt Mainframe', 'http://mainframe.io/'),('Anfahrtsbeschreibung', 'http://mainframe.io/contact.de.html'),('Impressum', '/pages/impressum.html'),
           )
 
 # Social widget

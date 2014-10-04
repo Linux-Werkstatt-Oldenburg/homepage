@@ -14,10 +14,12 @@ Logo 100x100
 <img src="/images/lwo-logo-100x100.png" width="100px" />
 Logo 1150x1150
 <img src="/images/lwo-logo-1150x1150.png" width="100px"/>
+<br>
 Logo 1280x1024
 <img src="/images/lwo-logo-1280x1024.png" width="100px"/>
 Logo 800x640
 <img src="/images/lwo-logo-800x640.png" width="100px"/>
+<br>
 QR-Code
 <img src="/images/lwo-qr.png" />
 
