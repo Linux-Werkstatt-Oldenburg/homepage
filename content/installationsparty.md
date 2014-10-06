@@ -1,7 +1,7 @@
 Title: Installationsparty
 Author: fraslo
 Category: Vortragsankündigung
-Date: 2014-10-04 21:13
+Date: 2014-10-05 21:13
 
 <img src="/images/hardware_wird_gestellt.JPG" width="200px" align="right" />
 Am __06.11.2014__ lädt die Linux Werkstatt Oldenburg wieder zum gemeinsamen 
