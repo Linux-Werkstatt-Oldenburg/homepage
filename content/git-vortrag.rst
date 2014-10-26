@@ -2,11 +2,11 @@ Einführung in GIT
 #################
 :date: 2014-08-21 21:16
 :author: mrunge
-:category: Vortragsankündigung
+:category: Termine und Treffen
 :tags: git
 :slug: git-vortrag
 
-Am 04.09.2014 lädt die Linux Werkstatt Oldenburg wieder zum gemeinsamen 
+Am 04.09.2014 lädt die Linux-Werkstatt Oldenburg wieder zum gemeinsamen 
 “Schrauben” im Mainframe ein.
 
 Ab 18.30 Uhr ist Einlass, um 20.00 Uhr findet ein 30 minütiger Vortrag, mit 
