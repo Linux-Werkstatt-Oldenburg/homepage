@@ -1,4 +1,4 @@
-Title: Virtualisierung
+Title: Treffen ohne Vortrag über Virtualisierung
 Author: fraslo
 Category: Termine und Treffen
 Date: 2014-11-25 21:13
@@ -7,7 +7,7 @@ Date: 2014-11-25 21:13
 Am __04.12.2014__ lädt die Linux-Werkstatt Oldenburg wieder zum gemeinsamen 
 “Schrauben” im [Hackspace Oldenburg 'Mainframe'](http://www.kreativitaet-trifft-technik.de/ "Homepage Mainframe") ein.
 
-Ab __18.30 Uhr__ ist Einlass, es findet im Lauf des Abends ein Vortrag über __Virtualisierung mit KVM, Virtualbox und VMWare__ statt.
+Ab __18.30 Uhr__ ist Einlass, der Vortrag über __Virtualisierung__ findet __NICHT__ statt und wird zu einem späteren Zeitpunkt nachgeholt..
 
 Über den [Email-Verteiler]({filename}/email_verteiler.md) oder das Kommentarfeld unten kann mit den Veranstaltern Kontakt aufgenommen werden.
 
