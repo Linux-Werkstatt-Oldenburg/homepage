@@ -1,5 +1,6 @@
 Title: Der Installationsbeschleuniger 
 Author: fraslo
+Status: draft
 Category: Alles über die Werkstatt
 Date: 2014-07-04 13:37
 
