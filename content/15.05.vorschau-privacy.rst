@@ -1,0 +1,23 @@
+Sichere Kommunikation und Verschlüsselung, PrivatSphäre und Sicherheit
+######################################################################
+:date: 2015-02-23 08:00
+:author: mpahnke
+:category: Vortragsankündigung
+:tags: PrivatSphäre, Sicherheit, Verschlüsselung, Sichere Email Kommunikation
+:slug: Vortrag privatsphäre und Sicherheit
+
+
+
+Am Donnerstag den **7. Mai 2015** lädt die Linux Werkstatt Oldenburg wieder zum gemeinsamen 
+“Schrauben” im Mainframe ein.
+
+
+Um 19.00 Uhr findet ein 30 minütiger Vortrag, mit 
+dem Titel: “Sichere Kommunikation und Verschlüsselung, PrivatSphäre und Sicherheit" statt. Referent: Noch nicht
+
+
+Rechner können gerne mitgebracht werden. Monitore, Tastaturen, Mäuse, Kabel etc. sind vorhanden, ein Internetzugang per LAN/WLAN ebenfalls.
+
+Neue Anfahrt_ zum Mainframe am Bahnhofsplatz 10.
+
+.. _Anfahrt: http://mainframe.io/contact.de.html
