@@ -13,7 +13,7 @@ Ab __18.30 Uhr__ ist Einlass (Den Eingang bei der Post benutzen!), der Vortrag z
 An diesem Abend soll es eine Einführung zu Blender geben.
 
 Blender ist eine freie GPL-lizensierte Open-Source 3D-Grafiksoftware, welche auch im professionellen Umfeld eingesetzt wird.
-Bekannte prominente Videoanimationen sind unter [Open Projects](http://www.blender.org/features/projects/ Blender Open Projects) auf der Webseite [www.blender.org](http://www.blender.org Link zu Blenderseite) des Blenderprojekts zu finden. Beim Kreativität trifft Technik e.V. (KtT) wird Blender übrigens auch für die Modellierung der Objekte für die 3D-Drucker verwendet.
+Bekannte prominente Videoanimationen sind unter [Open Projects](http://www.blender.org/features/projects "Blender Open Projects") auf der Webseite [www.blender.org](http://www.blender.org "Link zu Blenderseite") des Blenderprojekts zu finden. Beim Kreativität trifft Technik e.V. (KtT) wird Blender übrigens auch für die Modellierung der Objekte für die 3D-Drucker verwendet.
 
 Themen an diesem Abend sind u.a.:
 
