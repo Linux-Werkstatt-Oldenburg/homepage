@@ -4,7 +4,7 @@ Sichere Kommunikation und Verschlüsselung, PrivatSphäre und Sicherheit
 :author: mpahnke
 :category: Vortragsankündigung
 :tags: PrivatSphäre, Sicherheit, Verschlüsselung, Sichere Email Kommunikation
-:slug: Vortrag privatsphäre und Sicherheit
+:slug: vortrag-privacy-and-security
 
 
 

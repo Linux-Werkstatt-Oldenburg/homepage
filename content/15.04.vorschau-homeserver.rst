@@ -4,7 +4,7 @@ Heim-Netzwerk, Multimedia und Streaming Server
 :author: mpahnke
 :category: Vortragsankündigung
 :tags: Heim-Netzwerk, Multimedia, Streaming, Server
-:slug: vortrag heim-server
+:slug: vortrag-home-server
 
 
 
