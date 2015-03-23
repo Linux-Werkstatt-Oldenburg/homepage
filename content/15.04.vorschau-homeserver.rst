@@ -2,9 +2,9 @@ Heim-Netzwerk, Multimedia und Streaming Server
 ##############################################
 :date: 2015-02-23 08:10
 :author: mpahnke
-:category: Vortragsankündigung
+:category: Termine und Treffen
 :tags: Heim-Netzwerk, Multimedia, Streaming, Server
-:slug: vortrag-home-server
+:slug: vorschau-home-server
 
 
 

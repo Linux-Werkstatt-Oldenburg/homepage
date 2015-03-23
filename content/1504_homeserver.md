@@ -36,7 +36,7 @@ Euer Linux-Werkstatt-Oldenburg Orgateam
  
 Und hier ein Ausblick auf das nächste Thema mit Termin:
  
-* am __7. Mai 2015__ - Sichere Kommunikation und Verschlüsselung, Privatsphäre und Sicherheit / Referent: NN (Peter Gewald)
+* am __7. Mai 2015__ - Sichere Kommunikation und Verschlüsselung, Privatsphäre und Sicherheit / Referent: Peter Gewald (Chaostreff-OL)
  
  
 Bitte schon mal vormerken ;-)
