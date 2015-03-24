@@ -2,7 +2,7 @@ Sichere Kommunikation und Verschlüsselung, PrivatSphäre und Sicherheit
 ######################################################################
 :date: 2015-03-23 19:00
 :author: mpahnke
-:category: Vortragsankündigung
+:category: Termine und Treffen
 :tags: PrivatSphäre, Sicherheit, Verschlüsselung, Sichere Email Kommunikation
 :slug: vortrag-privacy-and-security
 

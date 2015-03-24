@@ -2,7 +2,7 @@ Einführung in Qt
 #################
 :date: 2014-09-18 21:16
 :author: mpahnke
-:category: Vortragsankündigung
+:category: Termine und Treffen
 :tags: qt
 :slug: qt-vortrag
 
