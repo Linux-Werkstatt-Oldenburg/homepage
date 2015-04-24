@@ -25,6 +25,7 @@ Der Referent ist Peter Gewald vom Chaostreff-OL
 <br>
 Mehr Events u. Infos vom Chaostreff Oldenburg hier: [http://ccc-ol.de/#events](http://ccc-ol.de/#events)
 <br>
+<br>
 Wir freuen uns auf einen spannenden Abend.
 <br>
 Euer Linux-Werkstatt-Oldenburg Orgateam
