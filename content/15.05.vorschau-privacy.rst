@@ -1,10 +1,10 @@
 Sichere Kommunikation und Verschlüsselung, PrivatSphäre und Sicherheit
 ######################################################################
-:date: 2015-03-23 19:00
+:date: 2015-04-17 22:00
 :author: mpahnke
 :category: Termine und Treffen
 :tags: PrivatSphäre, Sicherheit, Verschlüsselung, Sichere Email Kommunikation
-:slug: vortrag-privacy-and-security
+:slug: vortragprivacy-and-security
 
 
 
@@ -13,7 +13,7 @@ Am Donnerstag den **7. Mai 2015** lädt die Linux Werkstatt Oldenburg wieder zum
 
 
 Um 19.00 Uhr findet ein 30 minütiger Vortrag, mit 
-dem Titel: “Sichere Kommunikation und Verschlüsselung, PrivatSphäre und Sicherheit" statt. Referent: Peter Gewald (Chaostreff-OL)
+dem Titel: “Sichere Kommunikation und Verschlüsselung am Beispiel vom GPG" statt. Referent: Peter Gewald (Chaostreff-OL) - Mehr Events u. Infos vom Chaostreff Oldenburg hier: http://ccc-ol.de/#events
 
 
 Rechner können gerne mitgebracht werden. Monitore, Tastaturen, Mäuse, Kabel etc. sind vorhanden, ein Internetzugang per LAN/WLAN ebenfalls.
