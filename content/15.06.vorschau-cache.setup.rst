@@ -13,6 +13,7 @@ Am Donnerstag den **4. Juni 2015** lädt die Linux Werkstatt Oldenburg wieder zu
 
 Ab 19.00 Uhr findet ein Workshop zum Thema Squid statt. Zweck ist das Aufsetzen eines Proxy-Servers für Installationsmedien für unsere eigene Infrastruktur.
 
+[Infos zu Squid bei Wikipedia] (http://de.wikipedia.org/wiki/Squid "Squid")
 
 Rechner können gerne mitgebracht werden. Monitore, Tastaturen, Mäuse, Kabel etc. sind vorhanden, ein Internetzugang per LAN/WLAN ebenfalls.
 

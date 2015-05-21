@@ -2,7 +2,7 @@ Title:  Squid Workshop
 Author: mpahnke
 Category: Termine und Treffen
 Date: 2015-05-21 19:10
-Tags: Vsquid, cache, proxy, aptcacher
+Tags: squid, cache, proxy, aptcacher
 Slug: workshop_squid
 
 
@@ -14,7 +14,7 @@ Ab __18.30 Uhr__ ist Einlass (Den Eingang bei der Post benutzen!), der Vortrag z
 
 Ab 19.00 Uhr findet ein Workshop zum Thema __Squid__ statt. Zweck ist das Aufsetzen eines __Proxy-Servers__ für Installationsmedien für unsere eigene Infrastruktur.
 
-[Infos zu Squid bei Wikipedia] (https://de.wikipedia.org/wiki/Squid)
+[Infos zu Squid bei Wikipedia](http://de.wikipedia.org/wiki/Squid "Squid")
 <br>
 <br>
 Wir freuen uns auf einen spannenden Abend.
