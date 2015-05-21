@@ -1,25 +1,17 @@
-KXStudio - Linux für Musiker
+Squid Workshop
 ######################################################################
-:date: 2015-04-17 22:10
+:date: 2015-05-21 19:00
 :author: mpahnke
 :category: Termine und Treffen
-:tags: professional audio production, vst, low-latency, jackd,
-:slug: vorschau_kxstudio
+:tags: squid, cache, proxy, aptcacher 
+:slug: vorschau_squid
 
 
 Am Donnerstag den **4. Juni 2015** lädt die Linux Werkstatt Oldenburg wieder zum gemeinsamen 
 “Schrauben” im Mainframe ein.
 
 
-Um 19.00 Uhr findet **UNVERBINDLICH !** ein 30 minütiger Vortrag, mit 
-dem Titel: “KXStudio - Linux für Musiker" statt. Referent: Frank (Linux-Werkstatt-Oldenburg)
-
-KXStudio:
-
- * verwandelt Debian oder Ubuntu in ein Tonstudio mit Latenzoptimierung
- * erleichtert den Einstieg in die Musikproduktion erheblich.
- * http://kxstudio.sourceforge.net
-
+Ab 19.00 Uhr findet ein Workshop zum Thema Squid statt. Zweck ist das Aufsetzen eines Proxy-Servers für Installationsmedien für unsere eigene Infrastruktur.
 
 
 Rechner können gerne mitgebracht werden. Monitore, Tastaturen, Mäuse, Kabel etc. sind vorhanden, ein Internetzugang per LAN/WLAN ebenfalls.
