@@ -1,10 +1,10 @@
 KXStudio - Linux für Musiker
 ######################################################################
-:date: 2015-05-21 18:50
-:author: mpahnke
+:date: 2015-06-21 18:50
+:author: fraslo
 :category: Termine und Treffen
 :tags: professional audio production, vst, low-latency, jackd,
-:slug: vorschau_kxstudio
+:slug: kxstudio
 
 
 Am Donnerstag den **2. Juli 2015** lädt die Linux Werkstatt Oldenburg wieder zum gemeinsamen 
@@ -18,6 +18,8 @@ KXStudio:
 
  * verwandelt Debian oder Ubuntu in ein Tonstudio mit Latenzoptimierung
  * erleichtert den Einstieg in die Musikproduktion erheblich.
+ * Es sind keine Linux-Kenntnisse erforderlich
+ * http://wiki.ubuntuusers.de/kxstudio
  * http://kxstudio.sourceforge.net
 
 
