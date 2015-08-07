@@ -1,7 +1,7 @@
 Title: LibreCAD
 Author: fraslo
 Category: Termine und Treffen
-Date: 2015-07-01 22:30
+Date: 2015-08-07 22:30
 Tags: LibreCAD, CAD, Technische Zeichnung
 Slug: LibreCAD
 
