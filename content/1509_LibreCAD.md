@@ -1,4 +1,4 @@
-Title: LibreCAD
+Title: LibreCAD für technische Zeichnungen
 Author: fraslo
 Category: Termine und Treffen
 Date: 2015-08-07 22:30
@@ -12,11 +12,19 @@ Am Donnerstag, den __03. September 2015__ lädt die Linux-Werkstatt Oldenburg wi
 
 Ab __18.30 Uhr__ ist Einlass (Den Eingang bei der Post benutzen!), der Vortrag zum Themenabend startet gegen __19.00 Uhr__. 
 
-Um 19.00 Uhr findet ein 30 minütiger Vortrag, mit 
-dem Titel: __LibreCAD__ statt.
+Um 19.00 Uhr findet ein Workshop mit dem Titel: __LibreCAD__ statt.
 
- * Erste Schritte im Umgang mit LibreCAD
- * [http://librecad.org](http://librecad.org "LibreCAD Homepage")
+Teilnehmer können an Hand einer bereit gestellten Datei die Funktionen direkt selbst ausprobieren.
+
+ * Installation und Konfiguration
+ * Grundlegende Funktionen
+ * Arbeiten mit und ohne Ebenen
+ * Editierfunktionen wie kopieren, drehen, spiegeln, verkleinern, vergrößern u.m.
+ * Demonstration des isometrischen Rasters für 3D-Zeichnungen
+ * Zurücksetzen der Konfiguration
+ * Homepage: [http://librecad.org](http://librecad.org "LibreCAD Homepage")
+ * [http://wiki.ubuntuusers.de/LibreCAD](http://wiki.ubuntuusers.de/LibreCAD)
+ * [https://de.wikipedia.org/wiki/LibreCAD](https://de.wikipedia.org/wiki/LibreCAD)
 <br>
 <br>
 Wir freuen uns auf einen spannenden Abend.
